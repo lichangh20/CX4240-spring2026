@@ -127,12 +127,19 @@
 
    /* Staff photo + name link */
    .staff-photo {
+    display: block;
+    float: none;              /* key: cancel theme float */
+    clear: both;              /* optional: avoid previous floats */
     width: 110px;
     height: 110px;
     object-fit: cover;
     border-radius: 50%;
-    margin-bottom: 0.6rem;
+    margin: 0 auto 0.6rem auto;  /* center + spacing below */
     box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  }
+
+  .instructor-info, .ta-info {
+    text-align: center;
   }
 
   .staff-name-link {
