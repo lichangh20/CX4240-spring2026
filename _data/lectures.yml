@@ -12,295 +12,295 @@
   readings:
     - text: Background Test Out (See assignment)
 
-- date: 01/08
-  lecturer:  Bo Dai
-  title: >
-    <strong>Linear Algebra</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture2.pdf
-  # video:
-  readings:
-    - text: Background Test Due (Hand in during class)
-
-# - date: 01/10
+# - date: 01/08
 #   lecturer:  Bo Dai
 #   title: >
-#     Background due
+#     <strong>Linear Algebra</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture2.pdf
+#   # video:
+#   readings:
+#     - text: Background Test Due (Hand in during class)
+
+# # - date: 01/10
+# #   lecturer:  Bo Dai
+# #   title: >
+# #     Background due
+# #   slides: 
+# #   # video:
+# #   readings:
+
+# - date: 01/13
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Probabilistic and Statistics</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture3.pdf
+#   notes: https://bo-dai.github.io/CS4641-spring2025/slides/BasicProbStats.pdf
+#   readings:
+#   reading: https://www.cs.cmu.edu/~./awm/tutorials/prob18.pdf
+
+# - date: 01/15
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Optimization</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture4.pdf
+#   assignment: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW1.pdf
+#   solution: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW1_sol.pdf
+#   tex: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW1.zip
+#   # video:
+#   readings:
+#     - text: HW1 out
+
+# - date: 01/20
+#   lecturer:  Bo Dai
+#   title: >
+#     No Class (Martin Luther King Day)
 #   slides: 
 #   # video:
 #   readings:
 
-- date: 01/13
-  lecturer:  Bo Dai
-  title: >
-    <strong>Probabilistic and Statistics</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture3.pdf
-  notes: https://bo-dai.github.io/CS4641-spring2025/slides/BasicProbStats.pdf
-  readings:
-  reading: https://www.cs.cmu.edu/~./awm/tutorials/prob18.pdf
-
-- date: 01/15
-  lecturer:  Bo Dai
-  title: >
-    <strong>Optimization</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture4.pdf
-  assignment: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW1.pdf
-  solution: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW1_sol.pdf
-  tex: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW1.zip
-  # video:
-  readings:
-    - text: HW1 out
-
-- date: 01/20
-  lecturer:  Bo Dai
-  title: >
-    No Class (Martin Luther King Day)
-  slides: 
-  # video:
-  readings:
-
-- date: 01/22
-  lecturer:  Haotian Sun & Tianyi Chen
-  title: >
-    <strong>Python / Numpy Review Session (TA session)</strong>
-  code_data: https://bo-dai.github.io/CS4641-spring2025/slides/notebooks.zip
-  video: https://gatech.instructure.com/courses/448070/external_tools/17731
-  readings:
+# - date: 01/22
+#   lecturer:  Haotian Sun & Tianyi Chen
+#   title: >
+#     <strong>Python / Numpy Review Session (TA session)</strong>
+#   code_data: https://bo-dai.github.io/CS4641-spring2025/slides/notebooks.zip
+#   video: https://gatech.instructure.com/courses/448070/external_tools/17731
+#   readings:
 
 
-- title: "Module 2: Supervised Learning"
+# - title: "Module 2: Supervised Learning"
 
-- date: 01/27
-  lecturer:  Bo Dai
-  title: >
-    <strong>Linear Regression</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture6.pdf
-  # video:
-  readings:
+# - date: 01/27
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Linear Regression</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture6.pdf
+#   # video:
+#   readings:
 
-- date: 01/29
-  lecturer:  Bo Dai
-  title: >
-    <strong>Logistic Regression</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture7.pdf
-  # video:
-  readings:
-    - text: HW1 Due
+# - date: 01/29
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Logistic Regression</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture7.pdf
+#   # video:
+#   readings:
+#     - text: HW1 Due
 
-- date: 02/03
-  lecturer:  Bo Dai
-  title: >
-    <strong>Multiclass Logistic Regression & Naive Bayes Classifier</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture8.pdf
-  assignment: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW2_pdf.zip
-  tex: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW2_tex.zip
-  solution: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW2_sol.zip
-  readings:
-    - text: HW2 Out
+# - date: 02/03
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Multiclass Logistic Regression & Naive Bayes Classifier</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture8.pdf
+#   assignment: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW2_pdf.zip
+#   tex: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW2_tex.zip
+#   solution: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW2_sol.zip
+#   readings:
+#     - text: HW2 Out
 
-- date: 02/05
-  lecturer:  Bo Dai
-  title: >
-    <strong>Generative Model vs Discriminative Model</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture9.pdf
-  # video:
-  reading: https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf
+# - date: 02/05
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Generative Model vs Discriminative Model</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture9.pdf
+#   # video:
+#   reading: https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf
 
-- date: 02/10
-  lecturer:  Bo Dai
-  title: >
-    <strong>Neural Networks</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture10.pdf
-  # video:
-  readings:
-    - text: Team Formation Due
+# - date: 02/10
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Neural Networks</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture10.pdf
+#   # video:
+#   readings:
+#     - text: Team Formation Due
 
-- date: 02/12
-  lecturer:  Bo Dai
-  title: >
-    <strong>Backpropagation</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture11.pdf
-  # video:
-  readings:
+# - date: 02/12
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Backpropagation</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture11.pdf
+#   # video:
+#   readings:
 
-- date: 02/17
-  lecturer:  Bo Dai
-  title: >
-    <strong>CNNs</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture12.pdf
-  # video:
-  readings:
-    - text: HW2 Due
+# - date: 02/17
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>CNNs</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture12.pdf
+#   # video:
+#   readings:
+#     - text: HW2 Due
 
-- date: 02/19
-  lecturer:  Bo Dai
-  title: >
-    <strong>RNNs</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture13.pdf
-  # video:
-  readings:
+# - date: 02/19
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>RNNs</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture13.pdf
+#   # video:
+#   readings:
 
-- date: 02/24
-  lecturer:  Zihao Zhao, Binyue Deng, Jonathan Li
-  title: >
-    <strong>PyTorch Review Session (TA session)</strong>
-  slides: 
-  code_data: https://colab.research.google.com/drive/1lImrcJ--PuMZP8K6R8zZoU_DMnnXvZmA?usp=sharing
-  video: https://gatech.instructure.com/courses/448070/external_tools/17731
-  readings:
-    # - [Colab]
+# - date: 02/24
+#   lecturer:  Zihao Zhao, Binyue Deng, Jonathan Li
+#   title: >
+#     <strong>PyTorch Review Session (TA session)</strong>
+#   slides: 
+#   code_data: https://colab.research.google.com/drive/1lImrcJ--PuMZP8K6R8zZoU_DMnnXvZmA?usp=sharing
+#   video: https://gatech.instructure.com/courses/448070/external_tools/17731
+#   readings:
+#     # - [Colab]
 
-- title: "Module 3: Unsupervised Learning"
+# - title: "Module 3: Unsupervised Learning"
 
-- date: 02/26
-  lecturer:  Bo Dai
-  title: >
-    <strong>Density Estimation: Gaussian Mixture Models</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture15.pdf
-  # video:
-  readings:
+# - date: 02/26
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Density Estimation: Gaussian Mixture Models</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture15.pdf
+#   # video:
+#   readings:
 
-- date: 03/03
-  lecturer:  Bo Dai
-  title: >
-    <strong>Clustering: K-means ↔ Gaussian Mixture Models</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture16.pdf
-  # video:
-  readings:
+# - date: 03/03
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Clustering: K-means ↔ Gaussian Mixture Models</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture16.pdf
+#   # video:
+#   readings:
 
-- date: 03/05
-  lecturer:  Bo Dai
-  title: >
-    <strong>Variational Auto-Encoder</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture17.pdf
-  assignment: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW3.pdf
-  solution: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW3_sol.pdf
-  tex: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW3_tex.zip
-  practice: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_midterm_practice.pdf
-  readings:
-    - text: HW3 & Midterm Practice Out
+# - date: 03/05
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Variational Auto-Encoder</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture17.pdf
+#   assignment: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW3.pdf
+#   solution: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW3_sol.pdf
+#   tex: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW3_tex.zip
+#   practice: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_midterm_practice.pdf
+#   readings:
+#     - text: HW3 & Midterm Practice Out
 
-- date: 03/10
-  lecturer:  Bo Dai
-  title: >
-    <strong>Dimension Reduction & Review</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture18.pdf
-  # video:
-  readings:
+# - date: 03/10
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Dimension Reduction & Review</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture18.pdf
+#   # video:
+#   readings:
 
-- date: 03/12
-  lecturer:  Bo Dai
-  title: >
-    <strong>Midterm Exam</strong>
-  slides: 
-  # video:
-  readings:
+# - date: 03/12
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Midterm Exam</strong>
+#   slides: 
+#   # video:
+#   readings:
 
-- date: 03/17
-  lecturer:  Bo Dai
-  title: >
-    No Class (Spring Break)
-  slides: 
-  # video:
-  readings:
+# - date: 03/17
+#   lecturer:  Bo Dai
+#   title: >
+#     No Class (Spring Break)
+#   slides: 
+#   # video:
+#   readings:
 
-- date: 03/19
-  lecturer:  Bo Dai
-  title: >
-    No Class (Spring Break)
-  slides: 
-  # video:
-  readings:
-
-
-- date: 03/24
-  lecturer:  TA Teams
-  title: >
-    <strong>Midterm Solution Review & Regrade Discussion</strong>
-  slides: 
-  solution: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_midterm_sol.pdf
-  # video:
-  readings:
-    - text: HW3 Due
-
-- date: 03/26
-  lecturer:  Bo Dai
-  title: >
-    <strong>Representation Learning</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture21.pdf
-  # video:
-  readings:
-    - text: Project Presentation Sign-up
-      url: https://docs.google.com/spreadsheets/d/1QX759JzkRaGs-H1y_UDM0mlCeBMdyX3pyj8TKTSNWLc/edit?usp=sharing
+# - date: 03/19
+#   lecturer:  Bo Dai
+#   title: >
+#     No Class (Spring Break)
+#   slides: 
+#   # video:
+#   readings:
 
 
-- title: "Module 4: Large Language Models"
+# - date: 03/24
+#   lecturer:  TA Teams
+#   title: >
+#     <strong>Midterm Solution Review & Regrade Discussion</strong>
+#   slides: 
+#   solution: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_midterm_sol.pdf
+#   # video:
+#   readings:
+#     - text: HW3 Due
 
-- date: 03/31
-  lecturer:  Bo Dai
-  title: >
-    <strong>LLMs: Attention and Transformer</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture22.pdf
-  # video:
-  readings:
+# - date: 03/26
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Representation Learning</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture21.pdf
+#   # video:
+#   readings:
+#     - text: Project Presentation Sign-up
+#       url: https://docs.google.com/spreadsheets/d/1QX759JzkRaGs-H1y_UDM0mlCeBMdyX3pyj8TKTSNWLc/edit?usp=sharing
 
-- date: 04/02
-  lecturer:  Bo Dai
-  title: >
-    <strong>LLMs: Instruction Fine-Tuning & RLHF</strong>
-  slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture23.pdf
-  # video:
-  readings:
 
-- title: "Module 5: Projects"
+# - title: "Module 4: Large Language Models"
 
-- date: 04/07
-  lecturer:  Bo Dai
-  title: >
-    <strong>Project Presentation</strong>
-  slides: 
-  # video:
-  readings:
-    - text: Presenting Group No. 19, 16, 13, 17, 1
-    - text: Zoom Link
-      url: https://gatech.zoom.us/j/99950837185?pwd=vIKGembhjBJxcVPiH2p1GBHeiaWSWR.1
+# - date: 03/31
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>LLMs: Attention and Transformer</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture22.pdf
+#   # video:
+#   readings:
 
-- date: 04/09
-  lecturer:  Bo Dai
-  title: >
-    <strong>Project Presentation</strong>
-  slides: 
-  # video:
-  readings:
-    - text: Presenting Group No. 12, 10, 2, 7, 11, 20
-    - text: Zoom Link
-      url: https://gatech.zoom.us/j/99950837185?pwd=vIKGembhjBJxcVPiH2p1GBHeiaWSWR.1
+# - date: 04/02
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>LLMs: Instruction Fine-Tuning & RLHF</strong>
+#   slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture23.pdf
+#   # video:
+#   readings:
 
-- date: 04/14
-  lecturer:  Bo Dai
-  title: >
-    <strong>Project Presentation</strong>
-  slides: 
-  # video:
-  readings:
-    - text: Presenting Group No. 8, 3, 15, 9, 23, 22
-    - text: Zoom Link
-      url: https://gatech.zoom.us/j/99950837185?pwd=vIKGembhjBJxcVPiH2p1GBHeiaWSWR.1
+# - title: "Module 5: Projects"
 
-- date: 04/16
-  lecturer:  Bo Dai
-  title: >
-    <strong>Project Presentation</strong>
-  slides: 
-  # video:
-  readings:
-    - text: Presenting Group No. 6, 4, 18, 21, 14, 5
-    - text: Zoom Link
-      url: https://gatech.zoom.us/j/99950837185?pwd=vIKGembhjBJxcVPiH2p1GBHeiaWSWR.1
+# - date: 04/07
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Project Presentation</strong>
+#   slides: 
+#   # video:
+#   readings:
+#     - text: Presenting Group No. 19, 16, 13, 17, 1
+#     - text: Zoom Link
+#       url: https://gatech.zoom.us/j/99950837185?pwd=vIKGembhjBJxcVPiH2p1GBHeiaWSWR.1
 
-- date: 04/21
-  lecturer:  Bo Dai
-  title: >
-    No Class; Project Report Due
-  slides: 
-  # video:
-  readings:
+# - date: 04/09
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Project Presentation</strong>
+#   slides: 
+#   # video:
+#   readings:
+#     - text: Presenting Group No. 12, 10, 2, 7, 11, 20
+#     - text: Zoom Link
+#       url: https://gatech.zoom.us/j/99950837185?pwd=vIKGembhjBJxcVPiH2p1GBHeiaWSWR.1
+
+# - date: 04/14
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Project Presentation</strong>
+#   slides: 
+#   # video:
+#   readings:
+#     - text: Presenting Group No. 8, 3, 15, 9, 23, 22
+#     - text: Zoom Link
+#       url: https://gatech.zoom.us/j/99950837185?pwd=vIKGembhjBJxcVPiH2p1GBHeiaWSWR.1
+
+# - date: 04/16
+#   lecturer:  Bo Dai
+#   title: >
+#     <strong>Project Presentation</strong>
+#   slides: 
+#   # video:
+#   readings:
+#     - text: Presenting Group No. 6, 4, 18, 21, 14, 5
+#     - text: Zoom Link
+#       url: https://gatech.zoom.us/j/99950837185?pwd=vIKGembhjBJxcVPiH2p1GBHeiaWSWR.1
+
+# - date: 04/21
+#   lecturer:  Bo Dai
+#   title: >
+#     No Class; Project Report Due
+#   slides: 
+#   # video:
+#   readings:

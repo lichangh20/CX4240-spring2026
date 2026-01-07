@@ -7,30 +7,16 @@ Instructors:
       # image: staff/test.jpg
 
 TA:
-    - name: Haotian Sun
-      email: haotian.sun at gatech.edu
+    - name: Chenxiao Gao
+      email: cgao at gatech.edu
       url: 
       # office-hours: Thu 4:30 - 5:30pm 
       # session_link: https://gatech.zoom.us/j/95856140232?pwd=w0wUbfDfaxy9JvaJf6w6wBBYb4O7Vt.1
       # image: staff/test.jpg
 
-    - name:  Tianyi Chen 
-      email: tchen667 at gatech.edu
+    - name:  Changhao Li
+      email: cli911 at gatech.edu
       url: 
       # office-hours: Fri 2:30pm - 3:30 pm 
       # session_link: https://gatech.zoom.us/j/94580308387?pwd=HmNLSCKfdNsGRFViOCUBljfg0iGQX9.1
       # image: staff/test.jpg
-
-    - name: Zihao Zhao  
-      email: zzhao628 at gatech.edu
-      url: 
-      # office-hours: Tues 4:30pm - 5:30pm 
-      # session_link: https://gatech.zoom.us/j/96654934677?pwd=yVPz44mjTXhY43VSIqhJrjXT805nNN.1
-      # image: staff/test.jpg
-
-    - name: Binyue Deng
-      email: binyuedeng@gatech.edu
-      # image: staff/test.jpg 
-
-    - name: Jonathan Li
-      email: jli3562@gatech.edu

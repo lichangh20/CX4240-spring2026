@@ -1,22 +1,22 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-author: CS 4641
-name: CS 4641
-title: Machine Learning
+author: CX 4240
+name: CX 4240
+title: Computing for Data Analysis
 instructor: Bo Dai (bodai at cc.gatech.edu)
 description: >
-  CS 4641 - Machine Learning  - Georgia Institute of Technology - Spring 2025
+  CX 4240 - Computing for Data Analysis  - Georgia Institute of Technology - Spring 2026
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-url: https://bo-dai.github.io #https://haotiansun14.github.io # the base hostname & protocol for your site
-baseurl: /CS4641-spring2025/ #/bo-dai/ # the subpath of your site, e.g. /blog/
+url: https://lichangh20.github.io #https://haotiansun14.github.io # the base hostname & protocol for your site
+baseurl: /CX4240-spring2026/ #/bo-dai/ # the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: Bo-Dai #haotiansun14
+github_username: lichangh20 #haotiansun14
 # rss:  # notes rss
 
 # -----------------------------------------------------------------------------

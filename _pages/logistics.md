@@ -4,7 +4,7 @@ permalink: /grading_logistics/
 title: Grading & Logistics
 ---
 
-* (The list will be replaced with the table of contents.)
+<!-- * (The list will be replaced with the table of contents.)
 {:toc}
 
 ***
@@ -116,4 +116,4 @@ Instead, use your interaction with the AI assistant as a learning experience, th
 
 *This heuristic includes avoiding using AI directly integrated into your composition environment: just as you should not let a classmate write content or code directly into your submission, so also you should avoid using tools that directly add content to your submission.*
 
-*Deviating from these heuristics does not automatically qualify as academic misconduct; however, following these heuristics essentially guarantees your collaboration will not cross the line into misconduct.*
+*Deviating from these heuristics does not automatically qualify as academic misconduct; however, following these heuristics essentially guarantees your collaboration will not cross the line into misconduct.* -->

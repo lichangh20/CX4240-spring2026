@@ -1,21 +1,25 @@
 ---
 layout: about
 permalink: /
-title: <b>Machine Learning</b>
-description: CS 4641 • Spring 2025 • Georgia Institute of Technology
+title: <b>Computing for Data Analysis</b>
+description: CX 4240 • Spring 2026 • Georgia Institute of Technology
 logo: gatech-logo.png
 news: true
 ---
 
-*Welcome to the Spring 2025 offering of CS 4641!*
+*Welcome to the Spring 2026 offering of CX 4240!*
 
-This is a preliminary course for machine learning techniques, which extracts useful knowledge from data in real-world applications. On the technique side, we will cover key machine learning methods (supervised learning, representation learning, generative models, and foundation models). On the application side, it will introduce various applications of these techniques, including images/text generation and robotics. It will introduce how to formulate real-world tasks as data analysis problems, key methods for solving these problems, and their advantages and disadvantages.
+This course introduces fundamental techniques for computational data analysis, with an emphasis on machine learning algorithms and their applications to real-world data.
 
-The learning objective is that by the end of this course, the students are able to formulate their real-world problems at hand, choose appropriate machine learning methods to acquire insights from data automatically, and even come up with innovative solutions for solving open problems in this field. 
+On the technique side, the course covers key machine learning methods, including linear regression, logistic regression, neural networks, tree-based models, and self-supervised learning for foundation models.
+
+On the application side, the course explores a variety of real-world applications of these techniques. Students will learn how to formulate real-world tasks as data analysis problems, understand the core methods for solving them, and analyze their strengths and limitations.
+
+The learning objective is that by the end of this course, students will be able to formulate data analysis problems, select appropriate computational models to extract insights from data automatically, and develop innovative solutions to open problems in applied data science and machine learning.
 
 **Target Audience:**
-- **Practitioners:** This course is beneficial for individuals seeking to apply machine learning and data science techniques to solve real-world challenges in their professional or personal lives.
-- **Researchers:** This course provides valuable foundational knowledge and advanced techniques for students aspiring to conduct cutting-edge research in areas such as data mining, machine learning, natural language processing, and other related fields.
+- **Practitioners:** This course is ideal for students who wish to solve practical problems using machine learning and data science techniques in real-world settings.
+- **Researchers:** The course provides essential foundations and advanced tools for students interested in conducting cutting-edge research in data mining, machine learning, natural language processing, and related areas.
 
 **Prerequisites:**
 - Solid knowledge of probability, statistics, calculus, and linear algebra; 
@@ -25,7 +29,8 @@ The learning objective is that by the end of this course, the students are able 
 
 ***
 
-**Machine Learning** is a preliminary course introducing key concepts, techniques, and their applications. These topics will be covered in **Four Modules**:
+<!-- todo: write the schedule for CX 4240 -->
+<!-- **Machine Learning** is a preliminary course introducing key concepts, techniques, and their applications. These topics will be covered in **Four Modules**:
 
 - **Module I: Background Knowledge**
   - Linear Algebra
@@ -44,33 +49,15 @@ The learning objective is that by the end of this course, the students are able 
 - **Module IV: Large Language Models (LLM)**
   - Attention, Transformer
   - Supervised Fine-Tuning
-  - Reinforcement Learning with Human Feedback (RLHF)
+  - Reinforcement Learning with Human Feedback (RLHF) -->
 
 ***
 
-**Time:** Monday/Wednesday 5:00-06:15 pm  
-**Location:** [College of Computing 16](https://maps.app.goo.gl/qtKYVawgkfXRPGq77){:target="\_blank"}  
+**Time:** Monday/Wednesday 3:30-04:45 pm  
+**Location:** [Molecular Sciences and Engr G011](https://maps.app.goo.gl/ZkNdeSb7QVAW57aG6){:target="\_blank"}  
+<!-- todo: modify canvas link -->
 **Announcements & HW submission:** [Canvas](https://gatech.instructure.com/courses/448070){:target="\_blank"} and [Gradescope](https://www.gradescope.com/){:target="\_blank"}  
+<!-- todo: modify discussion link -->
 **Contact:** For course-related questions, use [Ed Discussion](https://edstem.org/us/courses/71546/){:target="\_blank"}. For personal matters, email *bodai at cc.gatech.edu* or the TAs.
-
-<!-- ***
-
-**Instructors and TAs:**
-
-- **Instructor:** [Bo Dai](https://bo-dai.github.io){:target="\_blank"}  
-  - Email: *bodai at cc.gatech.edu*  
-  - Office hours: TBD
-
-- **Head TA:** Haotian Sun  
-  - Email: *haotian.sun at gatech.edu*  
-  - Office hours: TBD
-
-- **TA:** Tianyi Chen  
-  - Email: *tchen667 at gatech.edu*  
-  - Office hours: TBD
-
-- **TA:** Zihao Zhao  
-  - Email: *zzhao628 at gatech.edu*  
-  - Office hours: TBD -->
 
 ***
