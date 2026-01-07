@@ -9,17 +9,14 @@ news: true
 
 *Welcome to the Spring 2026 offering of CX 4240!*
 
-This course introduces fundamental techniques for computational data analysis, with an emphasis on machine learning algorithms and their applications to real-world data.
+This is a preliminary course for machine learning techniques, which extracts useful knowledge from data in real-world applications. On the technique side, we will cover key machine learning methods (supervised learning, representation learning, generative models, and foundation models). On the application side, it will introduce various applications of these techniques, including images/text generation and robotics. It will introduce how to formulate real-world tasks as data analysis problems, key methods for solving these problems, and their advantages and disadvantages.
 
-On the technique side, the course covers key machine learning methods, including linear regression, logistic regression, neural networks, tree-based models, and self-supervised learning for foundation models.
+The learning objective is that by the end of this course, the students are able to formulate their real-world problems at hand, choose appropriate machine learning methods to acquire insights from data automatically, and even come up with innovative solutions for solving open problems in this field. 
 
-On the application side, the course explores a variety of real-world applications of these techniques. Students will learn how to formulate real-world tasks as data analysis problems, understand the core methods for solving them, and analyze their strengths and limitations.
-
-The learning objective is that by the end of this course, students will be able to formulate data analysis problems, select appropriate computational models to extract insights from data automatically, and develop innovative solutions to open problems in applied data science and machine learning.
 
 **Target Audience:**
-- **Practitioners:** This course is ideal for students who wish to solve practical problems using machine learning and data science techniques in real-world settings.
-- **Researchers:** The course provides essential foundations and advanced tools for students interested in conducting cutting-edge research in data mining, machine learning, natural language processing, and related areas.
+- **Practitioners:** This course is beneficial for individuals seeking to apply machine learning and data science techniques to solve real-world challenges in their professional or personal lives.
+- **Researchers:** This course provides valuable foundational knowledge and advanced techniques for students aspiring to conduct cutting-edge research in areas such as data mining, machine learning, natural language processing, and other related fields.
 
 **Prerequisites:**
 - Solid knowledge of probability, statistics, calculus, and linear algebra; 
@@ -30,7 +27,7 @@ The learning objective is that by the end of this course, students will be able 
 ***
 
 <!-- todo: write the schedule for CX 4240 -->
-<!-- **Machine Learning** is a preliminary course introducing key concepts, techniques, and their applications. These topics will be covered in **Four Modules**:
+These topics will be covered in **Four Modules**:
 
 - **Module I: Background Knowledge**
   - Linear Algebra
@@ -38,18 +35,23 @@ The learning objective is that by the end of this course, students will be able 
   - Optimization
 
 - **Module II: Supervised Learning**
-  - Linear Regression and Classification: *Ridge Regression, Logistic Regression, Naive Bayes*
-  - Neural Networks: *CNN, RNN*
+  - Linear Regression and Classification
+    - *Ridge Regression, Logistic Regression, Naive Bayes*
+  - Neural Networks
+    - *CNN, RNN*
 
 - **Module III: Unsupervised Learning**
-  - Clustering: *K-means, Gaussian Mixture Models*
-  - Dimension Reduction and Representation Learning: *PCA, SimCLR*
-  - Generative Models: *VAE*
+  - Clustering
+    - *K-means, Gaussian Mixture Models*
+  - Dimension Reduction and Representation Learning
+    - *PCA, SimCLR*
+  - Generative Models
+    - *VAE*
 
 - **Module IV: Large Language Models (LLM)**
   - Attention, Transformer
   - Supervised Fine-Tuning
-  - Reinforcement Learning with Human Feedback (RLHF) -->
+  - Reinforcement Learning with Human Feedback (RLHF)
 
 ***
 

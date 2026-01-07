@@ -4,7 +4,7 @@ permalink: /grading_logistics/
 title: Grading & Logistics
 ---
 
-<!-- * (The list will be replaced with the table of contents.)
+* (The list will be replaced with the table of contents.)
 {:toc}
 
 ***
@@ -34,12 +34,12 @@ Assignments are due at 11:59 PM of the due date. You will be allowed 2 total lat
 - It is worth 50% credit for the second next 24 hours.  
 - It is worth zero credit after that.
 
-Follow the Georgia Tech Academic Honor Code.
+Follow the [Georgia Tech Academic Honor Code](https://policylibrary.gatech.edu/student-life/academic-honor-code).
 
 **Regrade Requests**:  
 If you believe that the course staff made an objective error in grading, you may submit a regrade request on Gradescope within **3 days** of the grade release. Your request should briefly summarize why the original grading was incorrect. Note that staff may regrade the entire submission, so it is possible for you to lose more points than you gain if a mistake was overlooked in the first time.
 
-You are required to use **Latex** (OverLeaf Latex Example in the Video), or a word processing software to generate your solutions to the written questions. **Handwritten solutions WILL NOT BE ACCEPTED.** You can easily export your Jupyter Notebook to a Python file and import that to your desired Python IDE to debug your code for assignments.
+You are required to use **Latex** ([OverLeaf Latex Example in the Video](https://www.overleaf.com/project/5f6b9d542fcbbc00012b7bf4)), or a word processing software to generate your solutions to the written questions. **Handwritten solutions WILL NOT BE ACCEPTED.** You can easily export your Jupyter Notebook to a Python file and import that to your desired Python IDE to debug your code for assignments.
 
 ---
 
@@ -47,13 +47,13 @@ You are required to use **Latex** (OverLeaf Latex Example in the Video), or a wo
 
 **Team Size**:  
 Each project must be completed in a team of 3–5. Once you have formed your group, please send one email per team to the class instructor list with the names of all team members. If you have trouble forming a group, please send us an email and we will help you find project partners.  
-The team formation email will be due at **11:59 PM on Feb 10th**.
+The team formation email will be due at **11:59 PM on Feb 16th**.
 
 **Projects Topics**:  
 Reproduce classic papers, include but not limited to:  
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
-- Auto-Encoding Variational Bayes  
-- A Simple Framework for Contrastive Learning of Visual Representations  
+- [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)  
+- [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)  
 - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
 - etc  
 
@@ -75,7 +75,7 @@ You may also refer to the Stanford Project Examples.
     - Details of the experiments and results  
   - **Conclusion**: Discussion and future work  
 
-The project final report will be due at **11:59 PM on April 21st**.
+The project final report will be due at **11:59 PM on May 4th**.
 
 **Criteria**:
 - 30% for proposed method (soundness and originality)  
@@ -84,13 +84,13 @@ The project final report will be due at **11:59 PM on April 21st**.
 - 20% for quality of writing (clarity, organization, flow, etc.)
 
 **Computing Resources**:  
-Google Colaboratory allows free access to run Jupyter Notebooks using GPU resources. The Google Cloud Platform and AWS Educate are also good resources. The GitHub Student Developer Pack also offers free Microsoft Azure and Digital Ocean credits. This semester, we are also offering PACE ICE, Georgia Tech’s in-home cluster to students.
+[Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) allows free access to run Jupyter Notebooks using GPU resources. The [Google Cloud Platform](https://cloud.google.com/edu/students?hl=en) and [AWS Educate](https://aws.amazon.com/education/awseducate/) are also good resources. [The GitHub Student Developer Pack](https://education.github.com/pack) also offers free Microsoft Azure and Digital Ocean credits. This semester, we are also offering [PACE ICE](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042102), Georgia Tech’s in-home cluster to students.
 
 ---
 
 #### <u>Exam (30%)</u>
 
-One exam will be held on **March 12** in lieu of the regular class:  
+One exam will be held on **March 18** in lieu of the regular class:  
 - It will be a closed-book exam, so no notes or communication with peers is allowed.  
 - There will be no make-up exams, so be sure to attend on the scheduled date. Missing the exam will result in zero credit.
 
@@ -116,4 +116,4 @@ Instead, use your interaction with the AI assistant as a learning experience, th
 
 *This heuristic includes avoiding using AI directly integrated into your composition environment: just as you should not let a classmate write content or code directly into your submission, so also you should avoid using tools that directly add content to your submission.*
 
-*Deviating from these heuristics does not automatically qualify as academic misconduct; however, following these heuristics essentially guarantees your collaboration will not cross the line into misconduct.* -->
+*Deviating from these heuristics does not automatically qualify as academic misconduct; however, following these heuristics essentially guarantees your collaboration will not cross the line into misconduct.*
