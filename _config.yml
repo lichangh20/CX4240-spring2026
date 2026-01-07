@@ -10,13 +10,13 @@ description: >
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-url: https://lichangh20.github.io #https://haotiansun14.github.io # the base hostname & protocol for your site
+url: https://bo-dai.github.io  #https://lichangh20.github.io #https://haotiansun14.github.io # the base hostname & protocol for your site
 baseurl: /CX4240-spring2026/ #/bo-dai/ # the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: lichangh20 #haotiansun14
+github_username: Bo-Dai #haotiansun14
 # rss:  # notes rss
 
 # -----------------------------------------------------------------------------
